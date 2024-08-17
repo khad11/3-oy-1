@@ -73,6 +73,7 @@ button a {
 }
 button {
   margin-top: 20px;
+  margin-bottom: 20px;
   padding: 8px 15px;
   border: none;
   border-radius: 5px;
